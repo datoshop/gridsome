@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "datoserverless",
+  "version": "^0.0.1",
   "workspaces": [
     "gridsome",
     "packages/*",
