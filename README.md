@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">Gridsome</h1>
+<h1 align="center">Dato-Serverless</h1>
 <h3 align="center">Build super fast, modern websites with Vue.js</h3>
 <p align="center">
 Gridsome is a <a href="//vuejs.org">Vue-powered</a> static site generator for building CDN-ready websites for any headless CMS, local files or APIs
